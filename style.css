@@ -1,9 +1,22 @@
 h1{
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 2px black;
 color:white;  
  text-align: center;
 }
+
+h6{
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 1px 1px black;
+    color: white;
+    position:relative;
+    top: 150px;
+    left: 660px;
+
+}
+
 
 body{
 background-image: url("ranta.jpg");
@@ -11,3 +24,4 @@ background-repeat: no-repeat;
 background-size: auto;
 background-position: center center;
 }
+
