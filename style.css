@@ -3,25 +3,45 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     text-shadow: 1px 2px black;
 color:white;  
- text-align: center;
+ position:relative;
+ top: 20px; 
+ left: 190px;
 }
 
 h6{
     font-size: 17px;
     font-family:'Times New Roman', Times, serif;
-    text-shadow: 1px 1px black;
+    text-shadow: 2px 1px black;
     color: white;
     position:relative;
-    top: 150px;
-    left: 660px;
+    top: 70px;
+    left: 670px;
 
 }
 
+h3{
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  position: absolute;
+  top: 210px;
+  left: 370px;
+
+}
+
+p{
+    font-size:13px ;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: relative;
+    top: 110px;
+    left: 70px;
+}
 
 body{
 background-image: url("ranta.jpg");
 background-repeat: no-repeat;
-background-size: auto;
+background-size: 680px 230px;
 background-position: center center;
 }
 
